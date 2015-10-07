@@ -1,0 +1,27 @@
+The following are the commands used in GIT and GITHUB.
+
+The main reason we use GitHub is to get all our data/projects into source control and work with
+remote repositaries.
+
+Previously Microsoft TFS was used. It is microsoft application management suite.
+The main disadvante with this is it is hard for single users as it mailny supports groups.
+
+---> git init   ---   This initialize our repositary in the current folder.
+
+---> git status   ---   This gives the status at any given time.
+
+---> git add . (or) git add fileName.ext   ---   This adds/stages the file to the local repositary.
+
+---> git add * .ext  ---   This adds/stages the files with particular extensions.
+
+---> git commit -m "message"   ---   This commits all the changes we made to the file/folder.
+
+---> git log   ---   This gives the commit history.
+
+---> touch filename    ---   This is used to create new files. 
+
+---> .gitignore    ---   This is used to ignore particular files.
+
+Branching: This creates a copy of the code that we work on, so that the original code woll be remained as it is.
+
+Note: The name of the main branch will asways be MASTER.
