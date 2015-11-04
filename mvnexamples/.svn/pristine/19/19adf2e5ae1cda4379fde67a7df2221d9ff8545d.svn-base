@@ -1,0 +1,929 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta content="width=device-width, initial-scale=1.0, user-scalable=no" name="viewport">
+<title>Thank You for Downloading. What&#8217;s Next? | TheNEXUS</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.sonatype.org/nexus/wp/xmlrpc.php" />
+
+<link rel="alternate" type="application/rss+xml" title="TheNEXUS &raquo; Feed" href="http://www.sonatype.org/nexus/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TheNEXUS &raquo; Comments Feed" href="http://www.sonatype.org/nexus/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="TheNEXUS &raquo; Thank You for Downloading. What&#8217;s Next? Comments Feed" href="http://www.sonatype.org/nexus/thank-you-for-downloading/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.sonatype.org\/nexus\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='ts_fab_css-css'  href='http://www.sonatype.org/nexus/content/plugins/fancier-author-box/css/ts-fab.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox.css-css'  href='http://www.sonatype.org/nexus/wp/wp-includes/js/thickbox/thickbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.sonatype.org/nexus/wp/wp-includes/css/dashicons.min.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.sonatype.org/nexus/wp/wp-includes/js/thickbox/thickbox.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='glyphicons-css'  href='http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/glyphicons/css/glyphicons.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dw_focus_template-css'  href='http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/css/template.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dw_focus_responsive-css'  href='http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/css/responsive.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://www.sonatype.org/nexus/content/themes/thenexus/style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dw-focus-qa-css'  href='http://www.sonatype.org/nexus/content/themes/thenexus/dwqa-templates/style.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='youtube-channel-gallery-css'  href='http://www.sonatype.org/nexus/content/plugins/youtube-channel-gallery/styles.css?ver=4.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.magnific-popup-css'  href='http://www.sonatype.org/nexus/content/plugins/youtube-channel-gallery/magnific-popup.css?ver=4.2.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.sonatype.org/nexus/wp/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/plugins/fancier-author-box/js/ts-fab.min.js?ver=1.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/headerIcons.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/analytics.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/adroll.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/elqCfg.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/elqImg.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/elqScr.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/elqSetup.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/invokeDownload.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/thenexus/assets/js/carouselImageClickable.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/js/bootstrap.min.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/js/jquery.infinitescroll.min.js?ver=4.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var dw_focus = {"ajax_url":"http:\/\/www.sonatype.org\/nexus\/wp\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/js/custom.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/js/jquery.mouse.move.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/js/jquery.swipe.js?ver=4.2.4'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/plugins/spider-event-calendar/elements/calendar.js?ver=1.4.16'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/plugins/spider-event-calendar/elements/calendar-setup.js?ver=1.4.16'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/plugins/spider-event-calendar/elements/calendar_function.js?ver=1.4.16'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/plugins/spider-event-calendar/jscolor/jscolor.js?ver=1.4.16'></script>
+<meta name="generator" content="WordPress 4.2.4" />
+<link rel='canonical' href='http://www.sonatype.org/nexus/thank-you-for-downloading/' />
+<link rel='shortlink' href='http://www.sonatype.org/nexus/?p=26133' />
+<link rel="shortcut icon" href="http://www.sonatype.org/nexus/content/uploads/2015/08/favicon-2_copy.ico"/>
+<link rel="apple-touch-icon" href="http://www.sonatype.org/nexus/content/uploads/2015/08/favicon-2_copy.ico"/>
+  <script>
+    var xx_cal_xx = '&';
+  </script>
+          <!--[if lt IE 9]>
+            <script src="http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/js/html5.js" type="text/javascript"></script>
+        <![endif]-->
+    <style>
+.single-post .entry-thumbnail img {
+display: none;
+}
+</style>    <style type="text/css">
+                .site-header #branding a {
+            background-image: url(http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/img/logo.png);
+        }
+        
+                #colophon.dark #site-info .small-logo {
+            background-image: url(http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/img/logo-small.png);
+        }
+
+        @media ( max-width: 979px ) {
+            .wrap-navigation .small-logo {
+                background-image: url(http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/img/logo-small.png);
+            }
+        }
+        
+            </style>
+    <link rel="shortcut icon" href="http://www.sonatype.org/nexus/content/themes/dw_focus_1.0.8_theme/assets/img/favicon.ico">
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Thank You for Downloading. What&#039;s Next?" />
+<meta property="og:url" content="http://www.sonatype.org/nexus/thank-you-for-downloading/" />
+<meta property="og:description" content="Your download will begin automatically. If your download does not start after 10 seconds, download here: Nexus OSS (TGZ) or Nexus OSS (ZIP) Join the Nexus Community... come on over! &nbsp; Cool thi..." />
+<meta property="article:published_time" content="2014-12-16T14:15:27+00:00" />
+<meta property="article:modified_time" content="2015-03-06T14:17:17+00:00" />
+<meta property="og:site_name" content="TheNEXUS" />
+<meta property="og:image" content="http://www.sonatype.com/system/images/W1siZiIsIjIwMTQvMTAvMzAvMTcvMDcvMjAvNzg5L25wdHJpYWxfdHlfcXVlc3Rpb24uanBnIl1d/nptrial-ty-question.jpg" />
+<meta property="og:locale" content="en_US" />
+</head>
+<body class="page page-id-26133 page-template-default desktop  not-login group-blog" >
+	<header id="masthead" class="site-header" role="banner">
+	    <div class="container">
+	    	<div id="header">
+	    		<div class="row">
+	           		<div id="branding" class="span9 visible-desktop">
+		                <h1>
+		                	<a href="http://www.sonatype.org/nexus/" title="TheNEXUS" rel="home">
+		                		TheNEXUS		                	</a>
+		                </h1>
+		            </div>
+		            		            <div id="sidebar-header" class="span3">
+	            		<aside id="text-13" class="widget widget_text">			<div class="textwidget"><table class="advisory-disabled">
+	<tr>
+		<td align="left" valign="middle">
+			<a target="_blank" id="central-status-link" href="http://central.sonatype.org/" style="color:white;"><span class="glyphicon glyphicon-exclamation-sign" style="color:grey;"></span> Central Status</a>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="middle">
+			<a target="_blank" id="oss-status-link" href="http://status.sonatype.com/" style="color:white;"><span class="glyphicon glyphicon-exclamation-sign" style="color:grey;"></span> Status Report: oss.sonatype.org</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<div id="advisorypanel">
+				<div id="advisory-disabled">
+					<a target="_blank" id="advisory-status-link" href="/advisories" style="color:white;"><span class="glyphicon glyphicon-ok-sign" style="color:green;font-weight:normal;"></span> Security Advisory Archives</a>
+				</div>
+				<div id="advisory-enabled">
+					<a target="_blank" id="advisory-status-link" href="/advisories" style="color:red;font-weight:bold;"><span class="glyphicon glyphicon-warning-sign" style="color:red;font-weight:normal;"></span> SECURITY ADVISORY 12/23/14</a><br>
+					<div style="padding-left:17px; color:white;">
+						Critical Security Advisory for Sonatype Nexus Users<br/>
+						<a href="/advisories" style="color:red;text-decoration:none;">Read More &raquo;</a>
+					</div>
+				</div>
+			</div>
+		</td>
+	</tr>
+</table>
+
+<style>
+.site-header #branding a {
+    background-size: auto;
+    width: 100%;
+}
+table.advisory-enabled #advisory-enabled {
+	display: block;
+}
+table.advisory-enabled #advisory-disabled {
+	display: none;
+}
+table.advisory-disabled #advisory-enabled {
+	display: none;
+}
+table.advisory-disabled #advisory-disabled {
+	display: block;
+}
+</style></div>
+		</aside>		            </div>
+		            		        </div>
+	        </div>
+	        		            <div class="btn-group top-news">
+				    	        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+            <span class="number">15</span>
+            <span>Must read articles <i class="icon-caret-down"></i></span>
+        </a>
+                    <div class="top-news-inner">
+                <ul class="dropdown-menu">
+                    <div class="entry-meta">October 31, 2015</div>
+
+                    <div class="row-fluid">
+                        <ul>
+                            <li class="has-thumbnail first">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/10/30/nexus-3-docker-registry-authentication/" title="Nexus 3 Docker Registry &#8211; Authentication"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/09/Nexus-and-Docker-520.jpg" class="attachment-40x40 wp-post-image" alt="Nexus and Docker" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/10/30/nexus-3-docker-registry-authentication/" title="Nexus 3 Docker Registry &#8211; Authentication"> Nexus 3 Docker Registry &#8211; Authentication </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/10/28/3-things-developers-can-learn-from-the-scandal-at-vw/" title="3 Things Developers Can Learn from the Scandal at VW"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/10/3-Things-from-the-VW-Scandal-Featured-Image.jpg" class="attachment-40x40 wp-post-image" alt="3 Things from the VW Scandal - Featured Image" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/10/28/3-things-developers-can-learn-from-the-scandal-at-vw/" title="3 Things Developers Can Learn from the Scandal at VW"> 3 Things Developers Can Learn from the Scandal at VW </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/10/27/chatops-and-devops-automating-the-communication-and-management-stream/" title="ChatOps and DevOps [Video]: Automating the Communication and Management Stream"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/10/ChatOps-for-DevOps-520.jpg" class="attachment-40x40 wp-post-image" alt="ChatOps for DevOps" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/10/27/chatops-and-devops-automating-the-communication-and-management-stream/" title="ChatOps and DevOps [Video]: Automating the Communication and Management Stream"> ChatOps and DevOps [Video]: Automating the Communication and Management Stream </a></div>
+                </li>
+                            <li class="has-thumbnail first">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/10/23/automated-testing-paula-thrasher-and-damon-edwards-video/" title="Automated Mainframe Testing with Paula Thrasher and Damon Edwards [VIDEO]"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/10/Automated-Testing-Paula-Thrasher-and-Damon-Edwards-Featured-Image.jpg" class="attachment-40x40 wp-post-image" alt="Automated Testing - Paula Thrasher and Damon Edwards" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/10/23/automated-testing-paula-thrasher-and-damon-edwards-video/" title="Automated Mainframe Testing with Paula Thrasher and Damon Edwards [VIDEO]"> Automated Mainframe Testing with Paula Thrasher and Damon Edwards [VIDEO] </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/10/22/immutable-awesomeness-where-containers-collide-with-software-supply-chains-video/" title="Immutable Awesomeness? Where Docker containers collide with software supply chains [VIDEO]"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/10/Immutable-Awesomeness-Featured-Image.jpg" class="attachment-40x40 wp-post-image" alt="Immutable Awesomeness" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/10/22/immutable-awesomeness-where-containers-collide-with-software-supply-chains-video/" title="Immutable Awesomeness? Where Docker containers collide with software supply chains [VIDEO]"> Immutable Awesomeness? Where Docker containers collide with software supply chains [VIDEO] </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/10/01/owasp-application-security-verification-standard-project-w-andrew-van-der-stock/" title="OWASP Application Security Verification Standard Project w/ Andrew van der Stock [PODCAST]"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/10/Andrew-van-der-Stock-520.jpg" class="attachment-40x40 wp-post-image" alt="Andrew van der Stock" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/10/01/owasp-application-security-verification-standard-project-w-andrew-van-der-stock/" title="OWASP Application Security Verification Standard Project w/ Andrew van der Stock [PODCAST]"> OWASP Application Security Verification Standard Project w/ Andrew van der Stock [PODCAST] </a></div>
+                </li>
+                            <li class="has-thumbnail first">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/10/01/devops_women/" title="DevOps Leadership Series: Women and Diversity"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/10/Diversity-in-DevOps-5201.jpg" class="attachment-40x40 wp-post-image" alt="Diversity in DevOps - Helen Beal, Jennifer Davis, James Meickle" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/10/01/devops_women/" title="DevOps Leadership Series: Women and Diversity"> DevOps Leadership Series: Women and Diversity </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/09/30/owasp-benchmark-project-w-dave-wichers/" title="OWASP Benchmark Project w/ Dave Wichers"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/09/Dave-Wichers-520.jpg" class="attachment-40x40 wp-post-image" alt="Dave Wichers" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/09/30/owasp-benchmark-project-w-dave-wichers/" title="OWASP Benchmark Project w/ Dave Wichers"> OWASP Benchmark Project w/ Dave Wichers </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/09/29/the-security-shepherd-project-w-mark-denihan-and-paul-mccann-podcast/" title="The Security Shepherd Project w/ Mark Denihan and Paul McCann [PODCAST]"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/09/Security-Shepherd-520.jpg" class="attachment-40x40 wp-post-image" alt="OWASP Security Shepherd Project" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/09/29/the-security-shepherd-project-w-mark-denihan-and-paul-mccann-podcast/" title="The Security Shepherd Project w/ Mark Denihan and Paul McCann [PODCAST]"> The Security Shepherd Project w/ Mark Denihan and Paul McCann [PODCAST] </a></div>
+                </li>
+                            <li class="has-thumbnail first">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/09/28/devops-security-and-development-w-matt-tesauro-jez-humble-and-shannon-lietz/" title="DevOps, Security and Development w/ Matt Tesauro, Jez Humble and Shannon Lietz"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/09/DevOpsTrio-520.jpg" class="attachment-40x40 wp-post-image" alt="DevOpsTrio - Matt Tesauro, Jez Humble, Shannon Lietz" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/09/28/devops-security-and-development-w-matt-tesauro-jez-humble-and-shannon-lietz/" title="DevOps, Security and Development w/ Matt Tesauro, Jez Humble and Shannon Lietz"> DevOps, Security and Development w/ Matt Tesauro, Jez Humble and Shannon Lietz </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/09/23/devops-leadership-series-boston-common/" title="DevOps Leadership Series: Boston Common"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/09/DevOps-Days-Boston.jpg" class="attachment-40x40 wp-post-image" alt="DevOpsDays Boston" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/09/23/devops-leadership-series-boston-common/" title="DevOps Leadership Series: Boston Common"> DevOps Leadership Series: Boston Common </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/09/23/appsecusa-2015-the-project-summit-interviews/" title="AppSecUSA 2015: The Project Summit Interviews"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/09/AppSecUSA-2015-520.jpg" class="attachment-40x40 wp-post-image" alt="AppSecUSA 2015" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/09/23/appsecusa-2015-the-project-summit-interviews/" title="AppSecUSA 2015: The Project Summit Interviews"> AppSecUSA 2015: The Project Summit Interviews </a></div>
+                </li>
+                            <li class="has-thumbnail first">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/09/22/docker-and-nexus-3-ready-set-action/" title="Docker and Nexus 3: Video Walk-Throughs"><img width="40" height="25" src="http://www.sonatype.org/nexus/content/uploads/2015/09/Configure-Docker-Repositories-in-Nexus-3.jpg" class="attachment-40x40 wp-post-image" alt="Configure Docker Repositories in Nexus 3" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/09/22/docker-and-nexus-3-ready-set-action/" title="Docker and Nexus 3: Video Walk-Throughs"> Docker and Nexus 3: Video Walk-Throughs </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/09/21/please-containerize-your-excitement-nexus-3-milestone-5-release/" title="Please Containerize Your Excitement: Nexus 3 Milestone 5 Release"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/09/Nexus-and-Docker-520.jpg" class="attachment-40x40 wp-post-image" alt="Nexus and Docker" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/09/21/please-containerize-your-excitement-nexus-3-milestone-5-release/" title="Please Containerize Your Excitement: Nexus 3 Milestone 5 Release"> Please Containerize Your Excitement: Nexus 3 Milestone 5 Release </a></div>
+                </li>
+                            <li class="has-thumbnail">
+                    <div class="topnews-thumbnail"><a href="http://www.sonatype.org/nexus/2015/09/18/remote-open-spaces-is-it-possible/" title="Remote Open Spaces &#8211; Is it Even Possible?"><img width="40" height="27" src="http://www.sonatype.org/nexus/content/uploads/2015/09/DevOps-Days-Open-Spaces-520.jpg" class="attachment-40x40 wp-post-image" alt="DevOps Days Open Spaces" /></a></div>
+                    <div class="topnews-title"><a href="http://www.sonatype.org/nexus/2015/09/18/remote-open-spaces-is-it-possible/" title="Remote Open Spaces &#8211; Is it Even Possible?"> Remote Open Spaces &#8211; Is it Even Possible? </a></div>
+                </li>
+              
+                        </ul>
+                    </div>
+                </ul>
+            </div>
+            				    </div>
+			
+		    <div class="wrap-navigation">
+		        <nav id="site-navigation" class="main-navigation navbar" role="navigation">
+		            <div class="navbar-inner">
+						<button class="btn btn-navbar" data-target=".nav-collapse" data-toggle="collapse"  type="button">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+
+						<button class="collapse-search hidden-desktop" data-target=".search-collapse" data-toggle="collapse" >
+							<i class="icon-search"></i>
+						</button>
+
+						<a class="small-logo hidden-desktop" rel="home" title="DW Focus" href="http://www.sonatype.org/nexus/">DW Focus</a>
+					
+												<ul class="social-links visible-desktop">
+																																																</ul><!-- End social links -->
+
+						<div class="search-collapse collapse">
+								<form method="get" name="searchForm" class="searchForm" action="http://www.sonatype.org/nexus/" role="search">
+		<input type="text" class="field" name="s" value="" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" name="submit" value="Search" />
+	</form>
+						</div>
+
+						<div class="nav-collapse collapse">
+							<ul id="menu-main-menu" class="nav"><li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38 0"><a href="/nexus/">Home</a></li>
+<li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-parent-item menu-item-334 0"><a title="An archive of all articles published on this site" href="http://www.sonatype.org/nexus/article-archives-2/">Articles</a><i class="sub-menu-collapse icon-chevron-down hidden-desktop"></i>
+<ul class="sub-menu">
+	<li id="menu-item-25079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25079 active color-yellow 1"><a href="http://www.sonatype.org/nexus/category/spotlight/">In the Spotlight</a></li>
+	<li id="menu-item-25081" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25081 color-cyan 1"><a href="http://www.sonatype.org/nexus/category/guest-authors/">Guest Authors</a></li>
+	<li id="menu-item-38434" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38434 color-violet 1"><a href="http://www.sonatype.org/nexus/category/sonatype-says/">Sonatype Says</a></li>
+	<li id="menu-item-25084" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25084 color-yellow 1"><a href="http://www.sonatype.org/nexus/category/devops/">DevOps</a></li>
+	<li id="menu-item-25080" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25080 color-blue 1"><a href="http://www.sonatype.org/nexus/category/article-series/engineering-2/">Engineering Team: Thoughts</a></li>
+	<li id="menu-item-25086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25086 color-violet 1"><a href="http://www.sonatype.org/nexus/category/nexus-proclm/">Nexus Pro/Nexus Lifecycle</a></li>
+	<li id="menu-item-25087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25087 color-none 1"><a href="http://www.sonatype.org/nexus/category/article-series/nexus-and-nuget/">Nexus and NuGet</a></li>
+	<li id="menu-item-25083" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25083 color-orange 1"><a href="http://www.sonatype.org/nexus/category/nexus-oss/">Nexus OSS</a></li>
+	<li id="menu-item-25085" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-25085 color-cyan 1"><a href="http://www.sonatype.org/nexus/category/qa/">The Q&#038;A Corner</a></li>
+</ul>
+</li>
+<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-parent-item menu-item-107 0"><a title="Need immediate help? Try one of these three&#8230;" href="http://www.sonatype.org/nexus/support/">Support</a><i class="sub-menu-collapse icon-chevron-down hidden-desktop"></i>
+<ul class="sub-menu">
+	<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108 active 1"><a href="http://stackoverflow.com/questions/tagged/nexus">Nexus on StackOverflow</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109 1"><a href="https://support.sonatype.com/categories/20112427-Sonatype-Nexus">Knowledge Base</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110 1"><a href="http://links.sonatype.com/products/nexus/oss/issues">Nexus Issue Tracker</a></li>
+</ul>
+</li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-parent-item menu-item-82 0"><a title="General resources available to the community" href="http://www.sonatype.org/nexus/resources/">Resources</a><i class="sub-menu-collapse icon-chevron-down hidden-desktop"></i>
+<ul class="sub-menu">
+	<li id="menu-item-18046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18046 active 1"><a href="http://www.sonatype.org/nexus/resources/resources-book-links-and-downloads/">Books to Download</a></li>
+	<li id="menu-item-28257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28257 1"><a href="http://www.sonatype.org/nexus/lists-live-chat-and-other-resources/">Lists, Live Chat and Other Resources</a></li>
+	<li id="menu-item-30017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30017 1"><a href="http://www.sonatype.org/nexus/downloads/the-nexus-professional-deployment-guidelines/">The Nexus Professional Deployment Guidelines</a></li>
+	<li id="menu-item-38030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38030 1"><a href="http://www.sonatype.org/nexus/resources/2015-devops-leadership-series/">2015 DevOps Leadership Series: Videos</a></li>
+	<li id="menu-item-28207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28207 1"><a href="http://www.sonatype.org/nexus/continuous-delivery-and-devops-slideshow-gallery/">Continuous Delivery and DevOps: SlideShow Gallery</a></li>
+	<li id="menu-item-18047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18047 1"><a href="http://books.sonatype.com/nexus-book/reference/rhc.html">Repository Health Check</a></li>
+	<li id="menu-item-18048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18048 1"><a href="http://www.sonatype.com/application-health-check">Application Health Check</a></li>
+</ul>
+</li>
+<li id="menu-item-57" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-parent-item menu-item-57 0"><a title="Nexus OSS, Nexus Pro, and how to choose between them" href="http://www.sonatype.org/nexus/downloads/">Downloads</a><i class="sub-menu-collapse icon-chevron-down hidden-desktop"></i>
+<ul class="sub-menu">
+	<li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58 active 1"><a href="http://www.sonatype.org/nexus/go">Nexus OSS</a></li>
+	<li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59 1"><a href="http://www.sonatype.com/nexus/free-trial">Nexus Professional -Free Trial</a></li>
+	<li id="menu-item-18044" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18044 1"><a href="http://www.sonatype.com/nexus/why-nexus/which-repo-is-right-for-me">How to Choose</a></li>
+</ul>
+</li>
+<li id="menu-item-36456" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-parent-item menu-item-36456 0"><a title="Books and documentation to read online or download" href="http://www.sonatype.org/nexus/resources/resources-book-links-and-downloads/">Documentation</a><i class="sub-menu-collapse icon-chevron-down hidden-desktop"></i>
+<ul class="sub-menu">
+	<li id="menu-item-36457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36457 active 1"><a href="http://books.sonatype.com/mvnref-book/reference/index.html">Maven: The Complete Reference</a></li>
+	<li id="menu-item-36458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36458 1"><a href="http://books.sonatype.com/mvnex-book/reference/index.html">Maven by Example</a></li>
+	<li id="menu-item-36459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36459 1"><a href="http://books.sonatype.com/nexus-book/index.html">Repository Management with Nexus</a></li>
+	<li id="menu-item-36460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36460 1"><a href="http://books.sonatype.com/sonatype-clm-book/html/index.html">Documentation: Nexus Lifecycle</a></li>
+</ul>
+</li>
+<li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39 0"><a title="Who we are, how to contribute, contact us" href="http://www.sonatype.org/nexus/about-us/">About Us</a></li>
+<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-parent-item menu-parent-item menu-item-182 0"><a title="Exclusive resources for community members" href="http://www.sonatype.org/nexus/members-only/">Members Only</a><i class="sub-menu-collapse icon-chevron-down hidden-desktop"></i>
+<ul class="sub-menu">
+	<li id="menu-item-19661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19661 active 1"><a title="What are the advantages of being a member of the community?" href="http://www.sonatype.org/nexus/members-only/">About the Community</a></li>
+	<li id="menu-item-19654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19654 1"><a href="http://www.sonatype.org/nexus/members-only/member-entrance/">Member Entrance</a></li>
+	<li id="menu-item-19655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19655 1"><a href="http://www.sonatype.org/nexus/members-only/video-gallery-2/">Video Gallery</a></li>
+	<li id="menu-item-39536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39536 1"><a href="http://www.sonatype.org/nexus/members-only/video-gallery-2/devops-connect-rsa-conference-2015/">DevOps Connect: RSA Conference 2015 Video Gallery</a></li>
+	<li id="menu-item-28961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28961 1"><a href="http://www.sonatype.org/nexus/members-only/video-gallery-2/free-training-sonatype-nexus-and-clm-tips-from-the-trenches/">Free Training: Sonatype Nexus and Lifecycle Tips from the Trenches</a></li>
+	<li id="menu-item-24705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24705 1"><a href="http://www.sonatype.org/nexus/members-only/video-gallery-2/free-training-nexus-professional-and-smart-proxy/">Free Training: Nexus Professional and Smart Proxy</a></li>
+	<li id="menu-item-19660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19660 1"><a href="http://www.sonatype.org/nexus/members-only/video-gallery-2/free-training/">Free Training: Empowering Releases with the Nexus Staging Suite</a></li>
+	<li id="menu-item-19658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19658 1"><a href="http://www.sonatype.org/nexus/members-only/video-gallery-2/2-minute-nexus-challenge/">The Nexus 2 Minute Challenge</a></li>
+</ul>
+</li>
+</ul>						</div>	
+		            </div>
+		        </nav>
+
+		        <div id="under-navigation" class="clearfix under-navigation">
+		        	<div class="row-fluid">
+		        				        		
+						<div class="span3 offset9">	<form method="get" name="searchForm" class="searchForm" action="http://www.sonatype.org/nexus/" role="search">
+		<input type="text" class="field" name="s" value="" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" name="submit" value="Search" />
+	</form>
+</div>
+					</div>
+			    </div>
+		    </div>
+	    </div>
+	</header> <!-- End header -->
+
+	<div id="main">
+         <div class="container">
+             <div class="row">
+
+    <div id="primary" class="site-content span9">
+
+	
+		<article id="post-26133" class="post-26133 page type-page status-publish hentry content-print">
+			<header class="entry-header">
+				<h1 class="entry-title">Thank You for Downloading. What&#8217;s Next?</h1>
+			</header><!-- .entry-header -->
+
+			<div class="entry-content">
+				<div class="invokeDownload"></div>
+<p>
+Your download will begin automatically. If your download does not start after 10 seconds, download here: <a href="http://www.sonatype.org/downloads/nexus-latest-bundle.tar.gz" target="_blank">Nexus OSS (TGZ)</a> or <a href="http://www.sonatype.org/downloads/nexus-latest-bundle.zip" target="_blank">Nexus OSS (ZIP)</a>
+</p>
+<div style="margin: 30px 0;padding: 40px 0;border-bottom: solid 1px #cccccc;">
+<table border="0" width="100%" cellspacing="0" cellpadding="5" style="table-layout:fixed;">
+<tbody>
+<tr>
+<td style="width: 50%; text-align: center;" valign="top" width="50%">
+<p style="font-size: 20px; font-weight: bold;">Join the Nexus Community&#8230; come on over!</p>
+<p><a href="/nexus/members-only/"><img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTQvMTEvMTQvMTMvNDEvMTUvNDI1L2Rvd25sb2FkX3BhbmVsXzEuanBnIl1d/download-panel-1.jpg" alt="" /></a></p>
+<p><a href="/nexus/members-only/"><img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTQvMTEvMTQvMTMvNDEvMTUvNTgzL2pvaW5fdG9kYXlfYnV0dG9uLmpwZyJdXQ/join-today-button.jpg" alt="" /></a></td>
+<td style="width: 50%; text-align: center;" valign="top" width="50%">
+<p style="font-size: 20px; font-weight: bold;">&nbsp;</p>
+<p>    <a href="/nexus/members-only/"><img style="max-width: 100%;" src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTQvMTEvMTQvMTMvNDEvMTYvODY1L2Rvd25sb2FkX3BhbmVsXzIuanBnIl1d/download-panel-2.jpg" alt="" /></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;">
+<div style="border-bottom: #CCC 2px dotted;margin: 20px auto;width: 85%;"></div>
+</td>
+</tr>
+<tr>
+<td style="width: 50%; text-align: center;border-right: solid 1px #cccccc;" valign="top" width="50%">
+<p style="font-size: 20px; font-weight: bold;">Cool things you can do in two minutes!</p>
+<p>&nbsp;</p>
+<p>
+<a href="/nexus/members-only/video-gallery-2/2-minute-nexus-challenge/"><img style="max-width: 85%;" src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTQvMTAvMzAvMTYvMDQvMzYvMjk4L25wdHJpYWxfdHlfdmlkZW9zLmpwZyJdXQ/nptrial-ty-videos.jpg" alt="" /></a>
+</p>
+</td>
+<td style="width: 50%; text-align: center;border-left: solid 1px #cccccc;" valign="top" width="50%">
+<p style="font-size: 20px; font-weight: bold;">Why did you download this thing?</p>
+<p>Nexus is the most popular repository in the world.<br />
+Findout why in this popular white paper.</p>
+<p><a href="http://www.sonatype.com/request/sso?cid=70140000000u7uT&amp;return=http%3A%2F%2Fwww.sonatype.com%2Fresources%2Fwhitepapers%2Fwhite-paper-benefits-of-a-repository-manager&amp;ls=Whitepaper%20Download"><img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTQvMTEvMTQvMTMvNDEvMTQvMjYwL2JlbmVmaXRzX3JlcG9fbWFuYWdlcl90aHVtYi5qcGciXV0/benefits-repo-manager-thumb.jpg" alt="" /></a></p>
+<p><a href="http://www.sonatype.com/request/sso?cid=70140000000u7uT&amp;return=http%3A%2F%2Fwww.sonatype.com%2Fresources%2Fwhitepapers%2Fwhite-paper-benefits-of-a-repository-manager&amp;ls=Whitepaper%20Download"><img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTQvMTEvMTQvMTMvNDEvMTQvNzg3L2ZyZWVfZG93bmxvYWRfYnV0dG9uLmpwZyJdXQ/free-download-button.jpg" alt="" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table style="color: #575757; font-size: 20px;" border="0" width="100%" cellspacing="0" cellpadding="25">
+<tbody>
+<tr>
+<td style="width: 33%;" valign="top" width="33%"><b>&#8220;Nexus is super easy to set up and update. You&#8217;ll waste time trying to find another way to manage your binaries. Development of Nexus is very active, the support is awesome and all the features you’d need are there.&#8221;</b></p>
+<p><b>Alexis Morelle</b></p>
+<p>Software Factory Architect, Alcatel-Lucent</td>
+<td style="width: 33%;" valign="top" width="33%"><b>&#8220;It is impossible to do serious development without a repository manager. And the only one on the market that is serious is Nexus.&#8221;</b></p>
+<p><b>Arnaud Heritier</b></p>
+<p>Software Factory Manager, eXo</td>
+<td style="width: 33%;" valign="top" width="33%"><b>&#8220;At Intuit, we recognize that as builds grow and the teams who create them change over time, swift, accurate repository management becomes critical. Nexus provides a comprehensive, easy-to-use solution that lets teams and developers track, search, organize and access build components.&#8221;</b></p>
+<p><b>Kaizer Sogiawala</b></p>
+<p>Software Configuration Management Engineer, Intuit Inc.</td>
+</tr>
+<tr>
+<td style="width: 33%;" valign="top" width="33%"></td>
+<td style="width: 33%; text-align: center;" valign="top" width="33%"><a href="http://www.sonatype.com/contact/general-inquiry"><img src="http://www.sonatype.com/system/images/W1siZiIsIjIwMTQvMTAvMzAvMTcvMDcvMjAvNzg5L25wdHJpYWxfdHlfcXVlc3Rpb24uanBnIl1d/nptrial-ty-question.jpg" alt="" /></a></td>
+<td style="width: 33%;" valign="top" width="33%"></td>
+</tr>
+</tbody>
+</table>
+<style>
+.reveal-modal-wrap {
+/*display:none;*/
+}
+.reveal-modal-bg {
+position: fixed;
+height: 100%;
+width: 100%;
+background: #000;
+background: rgba(0, 0, 0, 0.45);
+z-index: 40;
+top: 0;
+left: 0;
+}
+.reveal-modal {
+background: #FFF;
+display: block;
+top: 400px;
+left: 50%;
+margin-left: -260px;
+width: 520px;
+position: absolute;
+z-index: 41;
+padding: 30px;
+-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.reveal-modal > :first-child {
+margin-top: 0;
+}
+.reveal-modal input[type="text"] {
+background-color: #FFF;
+font-family: inherit;
+border: 1px solid #CCC;
+-webkit-border-radius: 2px;
+-moz-border-radius: 2px;
+-ms-border-radius: 2px;
+-o-border-radius: 2px;
+border-radius: 2px;
+-webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+-moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+color: rgba(0, 0, 0, 0.75);
+display: block;
+font-size: 14px;
+margin: 0 0 12px 0;
+padding: 6px;
+height: 32px;
+width: 100%;
+-webkit-transition: all 0.15s linear;
+-moz-transition: all 0.15s linear;
+-o-transition: all 0.15s linear;
+transition: all 0.15s linear;
+}
+.reveal-modal .close-reveal-modal:not(.button) {
+font-size: 22px;
+font-size: 2.2rem;
+line-height: .5;
+position: absolute;
+top: 8px;
+right: 11px;
+color: #AAA;
+text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.6);
+font-weight: bold;
+cursor: pointer;
+}
+</style>
+<div id="ossSignupWrap" class="reveal-modal-wrap">
+<div class="reveal-modal-bg" style="opacity: 0.8; display: block; cursor: pointer;" onclick="jQuery('#ossSignupWrap').hide();"></div>
+<div id="ossSignup" class="reveal-modal">
+<h2>Stay Informed</h2>
+<p>Be the first to know about new releases, critical patches, new educational and tutorial materials, and other key information to help you get the most from Nexus. Don&#8217;t worry, we won&#8217;t spam you.</p>
+<p></p>
+<form accept-charset="UTF-8" action="http://now.eloqua.com/e/f2" data-remote="true" id="oss_signup" method="post">
+<div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="uFPq5WxPzdabfM9CV4AWfOCK2MKXGWdggYaP75Xva8E="></div>
+<p>    <input type="hidden" name="elqFormName" value="Nexus-Professional/Free-Trial:OSS"><br />
+    <input type="hidden" name="elqSiteID" value="1886"></p>
+<p>    Email: <input id="email" name="email" size="30" type="text" value=""></p>
+<p>    <input data-disable-with="Please wait..." name="commit" type="submit" value="Subscribe"><br />
+</form>
+<p>        <a class="close-reveal-modal external" onclick="jQuery('#ossSignupWrap').hide();">×</a>
+      </div>
+</div>
+							</div><!-- .entry-content -->
+		</article><!-- #post-26133 -->
+		
+		
+
+<div id="comments" class="comments-area">
+
+		
+			<h3 class="comments-title">
+			2 Comments		</h3>
+
+		
+		<ol class="commentlist">
+				<li class="comment even thread-even depth-1" id="li-comment-273">
+		<article id="comment-273" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://2.gravatar.com/avatar/b0311ee3d8dc7b55cb72c251557fe5a9?s=44&#038;d=mm&#038;r=g' srcset='http://2.gravatar.com/avatar/b0311ee3d8dc7b55cb72c251557fe5a9?s=88&amp;d=mm&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite class="fn"><a href='http://extensiatech.com' rel='external nofollow' class='url'>Travis Eddy</a> </cite><a href="http://www.sonatype.org/nexus/thank-you-for-downloading/#comment-273"><time datetime="2015-03-04T15:54:12+00:00">- March 4, 2015</time></a> said:							</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>The current OSS version of NEXUS (2.11.2-03), dose not work on Linux. Looks like a config problem. Jetty loads up but 404&#8217;s.</p>
+<p>Test system : Centos 7.<br />
+Apache Archiva (very similar setup from a server standpoint JSW/Jetty) runs fine on the same server.</p>
+<p>GoodLuck</p>
+			</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/nexus/thank-you-for-downloading/?dl=zip&#038;replytocom=273#respond' onclick='return addComment.moveForm( "comment-273", "273", "respond", "26133" )' aria-label='Reply to Travis Eddy'>Reply</a> <span><i class="icon-reply"></i></span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-281">
+		<article id="comment-281" class="comment">
+			<header class="comment-meta comment-author vcard">
+				<img alt='' src='http://1.gravatar.com/avatar/7dfe7d153dba21a03964fd47d4746fdd?s=44&#038;d=mm&#038;r=g' srcset='http://1.gravatar.com/avatar/7dfe7d153dba21a03964fd47d4746fdd?s=88&amp;d=mm&amp;r=g 2x' class='avatar avatar-44 photo' height='44' width='44' /><cite class="fn">Rich Seddon </cite><a href="http://www.sonatype.org/nexus/thank-you-for-downloading/#comment-281"><time datetime="2015-03-05T15:19:23+00:00">- March 5, 2015</time></a> said:							</header><!-- .comment-meta -->
+
+			
+			<section class="comment-content comment">
+				<p>Hi Travis,</p>
+<p>What URL are you using to access the server?  By default Nexus runs on &#8220;/nexus&#8221;, so you need to uses something like &#8220;http://localhost:8081/nexus&#8221;.</p>
+<p>You can change the context root by editing &#8220;$NEXUS_HOME/conf/nexus.properties&#8221; and changing the &#8220;nexus-webapp-context-path&#8221; variable.</p>
+<p>Rich</p>
+			</section><!-- .comment-content -->
+
+			<div class="reply">
+				<a class='comment-reply-link' href='/nexus/thank-you-for-downloading/?dl=zip&#038;replytocom=281#respond' onclick='return addComment.moveForm( "comment-281", "281", "respond", "26133" )' aria-label='Reply to Rich Seddon'>Reply</a> <span><i class="icon-reply"></i></span>			</div><!-- .reply -->
+		</article><!-- #comment-## -->
+	</li><!-- #comment-## -->
+		</ol><!-- .commentlist -->
+
+		
+	
+
+	
+
+
+							<div id="respond" class="comment-respond">
+				<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/nexus/thank-you-for-downloading/?dl=zip#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://www.sonatype.org/nexus/wp/wp-comments-post.php" method="post" id="commentform" class="comment-form">
+																										<div class="row-fluid"><p class="comment-form-author field"><i class="icon-user"></i><input id="author" name="author" type="text" value="" size="30" aria-required='true' /><label for="author">Your Name</label> <span class="required">*</span></p>
+<p class="comment-form-email field"><i class="icon-envelope-alt"></i><input id="email" name="email" type="text" value="" size="30" aria-required='true' /><label for="email">Your Email</label> <span class="required">*</span></p>
+<p class="comment-form-url field"><i class="icon-link"></i><input id="url" name="url" type="text" value="" size="30" /><label for="url">Website</label> </p> </div>
+												<p class="comment-form-comment"> <textarea id="comment" placeholder="Your comment..." name="comment" rows="4" aria-required="true"></textarea></p>						
+						<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='26133' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="b21c22ec1b" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="138"/></p>					</form>
+							</div><!-- #respond -->
+			
+</div><!-- #comments .comments-area -->
+	</div>
+
+	
+	    <div id="secondary" class="widget-area span3" role="complementary">
+		<aside id="text-7" class="widget widget_text">			<div class="textwidget"><!-- JOIN THE COMMUNITY TOP RIGHT CORNER -->
+<table width="100%" bgcolor="#000000" cellpadding="0" cellspacing="0" border="0">
+<tr><td><img src="/nexus/content/uploads/2014/09/JoinTheCommunity-Top.gif" width="230" height="52" border="0" /></td></tr>
+<tr><td style="text-align:right; color: #a8a8a8; background-color: black; padding-bottom: 5px; font-family: Oswald Regular; font-size:12px; ">5398 MEMBERS & GROWING&nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td><a href="/nexus/members-only/"><img src="/nexus/content/uploads/2014/09/JoinTheCommunity-Bottom.gif" width="230" height="169" border="0" /></a></td></tr>
+</table></div>
+		</aside><aside id="text-9" class="widget widget_text">			<div class="textwidget"><!-- EVENT CALENDAR LISTINGS -->
+<table width="100%" cellpadding="10" style="background-color:black;" >
+<tr><td align="left"><span style="color:white;  font-weight:bold;"> Come and Meet Us</span></td></tr></table>
+
+<table width="100%" cellpadding="3">
+
+<tr style="border-bottom: 1px solid #ccc;"><td>October 19 - 20, 2015<br />
+<strong><span style="font-size:medium;"><a href="http://devopsenterprise.io/" target="_blank">DevOps Enterprise Summit</a></span></strong><br />
+Santa Clara, CA
+</td></tr>
+
+<tr style="border-bottom: 1px solid #ccc;"><td>October 25 - 28, 2015<br />
+<strong><span style="font-size:medium;"><a href="http://www.fsisac-summit.com/" target="_blank">FSISAC Fall Summit</a></span></strong><br />
+San Diego, CA
+</td></tr>
+
+<tr style="border-bottom: 1px solid #ccc;"><td>October 25 - 29, 2015<br />
+<strong><span style="font-size:medium;"><a href="https://www.oracle.com/javaone/index.html" target="_blank">JavaOne</a></span></strong><br />
+San Francisco, CA
+</td></tr>
+
+<tr style="border-bottom: 1px solid #ccc;"><td>November 8 - 13, 2015<br />
+<strong><span style="font-size:medium;"><a href="https://www.usenix.org/conference/lisa15" target="_blank">LISA15 USENIX</a></span></strong><br />
+Washington, DC
+</td></tr>
+
+<tr style="border-bottom: 1px solid #ccc;"><td>November 16  - 20, 2015<br />
+<strong><span style="font-size:medium;"><a href="http://www.ca.com/us/caworld.aspx" target="_blank">CA World '15</a></span></strong><br />
+Las Vegas, NV
+</td></tr>
+
+<tr style="border-bottom: 1px solid #ccc;"><td>November 19 - 20, 2015<br />
+<strong><span style="font-size:medium;"><a href="http://distributed-agile-teams.org/workshops/" target="_blank">Distributed Agile Teams Flock 2015</a></span></strong><br />
+Berlin, Germany
+</td></tr>
+
+<tr><td align="right"><span style="font-size:75%"><a href="http://www.sonatype.com/resources/events/" target="_blank">MORE EVENTS ></a></span></tr>
+</table>
+</div>
+		</aside><aside id="text-6" class="widget widget_text">			<div class="textwidget"><!-- DOWNLOADS SECTION HEADER-->
+<table width="100%" cellpadding="10" style="background-color:black;" ><tr><td align="left"><span style="color:white;  font-weight:bold;"> Downloads </span></td></tr></table>
+
+<!-- RIGHT COLUMN IMAGES -->
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+
+<!-- NEXUS OSS -->
+<tr style="line-height:5px; "><td>&nbsp;</td></tr>
+<tr><td><a href="/nexus/go"><img src="/nexus/content/uploads/2014/09/NexusOSS-download.jpg" width="230" height="102" border="0" /></a></td></tr>
+
+<!-- NEXUS PRO TRIAL -->
+<tr style="line-height:5px; "><td>&nbsp;</td></tr>
+<tr><td><img id="TryNexusPro" src="http://www.sonatype.org/nexus/content/uploads/2015/09/LearnAboutNexusPro-RightColumn.jpg" border="0" width="230" height="230" usemap="TryNexusPro-Map" alt="Try Nexus Pro" />
+<map name="TryNexusPro-Map" id="TryNexusPro-Map">
+<area  alt="Nexus Pro Features" title="Nexus Pro Features" href="http://www.sonatype.com/nexus/feature-tours/oss-pro-pro-plus" shape="rect" coords="14,106,221,137" style="outline:none;" target="_blank"     />
+<area  alt="Try Nexus Pro" title="Try Nexus Pro" href="http://www.sonatype.com/nexus/try-compare-buy/nexus-pro-free-trial" shape="rect" coords="14,139,220,168" style="outline:none;" target="_blank"     />
+</map></td></tr>
+
+<!-- OSS VS NEXUS PRO  -->
+<tr style="line-height:5px; "><td>&nbsp;</td></tr>
+<tr><td><a href="http://www.sonatype.com/nexus/why-nexus/which-repo-is-right-for-me" target="_blank"><img src="/nexus/content/uploads/2014/09/oss-vs-pro.jpg" width="230" height="126" border="0" /></a></td></tr>
+
+<!-- BOOKS -->
+<tr style="line-height:5px; "><td>&nbsp;</td></tr>
+<tr><td><a href="http://www.sonatype.org/nexus/resources/resources-book-links-and-downloads/"><img src="/nexus/content/uploads/2014/09/Nexus-books.jpg" width="230" height="221" border="0" /></a></td></tr>
+</tr></table>
+</div>
+		</aside><aside id="text-19" class="widget widget_text">			<div class="textwidget"><!-- MAILING LISTS AND LIVE CHAT -->
+<table width="100%" cellpadding="10" style="background-color:black;" >
+<tr><td align="left"><span style="color:white;  font-weight:bold;"> Mailing Lists and Live Chat</span></td></tr></table>
+
+<table width="100%" cellpadding="3">
+
+<tr><td><a href="https://groups.google.com/a/glists.sonatype.com/forum/?hl=en#!forum/nexus-users" target="_blank"><strong>Nexus User List Archive</strong></a><br />(<a href="mailto:nexus-users+subscribe@lists.sonatype.com">Subscribe</a>)</td></tr>
+<tr><td><a href="https://links.sonatype.com/products/nexus/community-chat" target="_blank"><strong>Live Nexus HipChat Channel</strong></a></td></tr>
+
+</table></div>
+		</aside><aside id="text-18" class="widget widget_text">			<div class="textwidget"><p><!-- SECTION HEADER FOR AUTHOR ARCHIVES --></p>
+<table width="100%" cellpadding="10" style="background-color:black;" >
+<tr>
+<td align="left"><span style="color:white;  font-weight:bold;">Author Archives </span></td>
+</tr>
+</table>
+<p>&nbsp;<br />
+<a href="/nexus/author/a-gupta/">Arun Gupta</a><br />
+<a href="/nexus/author/b-woods/">Beau Woods</a><br />
+<a href="/nexus/author/b-fox/">Brian Fox</a><br />
+<a href="/nexus/author/c-riley/">Chris Riley</a><br />
+<a href="/nexus/author/d-arh/">Damir Arh</a><br />
+<a href="/nexus/author/d-sauble/">Daniel Sauble</a><br />
+<a href="/nexus/author/daniel-miessler/">Daniel Miessler</a><br />
+<a href="/nexus/author/david-jones/">David Jones</a><br />
+<a href="/nexus/author/d-weeks/">Derek Weeks</a><br />
+<a href="/nexus/author/g-vashishth/">Gaurav Vashishth</a><br />
+<a href="/nexus/author/gene-kim/">Gene Kim</a><br />
+<a href="/nexus/author/i-turunen/">Ilkka Turunen</a><br />
+<a href="/nexus/author/jeff-wayman/">Jeff Wayman</a><br />
+<a href="/nexus/author/j-hesse/">Jeffry Hesse</a><br />
+<a href="/nexus/author/j-reijn/">Jeroen Reijn</a><br />
+<a href="/nexus/author/j-corman/">Joshua Corman</a><br />
+<a href="/nexus/author/luboskrnac/">Lubos Krnac</a><br />
+<a href="/nexus/author/m-smeets/">Maarten Smeets</a><br />
+<a href="/nexus/author/m-moser/">Manfred Moser</a><br />
+<a href="/nexus/author/mdevries/">Marcel de Vries</a><br />
+<a href="/nexus/author/m-kilby/">Mark Kilby</a><br />
+<a href="/nexus/author/m-miller/">Mark Miller</a><br />
+<a href="/nexus/author/m-wallin/">Marko Wallin</a><br />
+<a href="/nexus/author/m-painter/">Mark Painter</a><br />
+<a href="/nexus/author/m-barker/">Matthew Barker</a><br />
+<a href="/nexus/author/m-filosa/">Mike Filosa</a><br />
+<a href="/nexus/author/m-hansen/">Mike Hansen</a><br />
+<a href="/nexus/author/peterlynch/">Peter Lynch</a><br />
+<a href="/nexus/author/r-seddon/">Rich Seddon</a><br />
+<a href="/nexus/author/t-cservenak/">Tamas Cservenak</a><br />
+<a href="/nexus/author/w-jackson/">Wayne Jackson</a><br />
+<a href="/nexus/author/y-bugayenko/">Yegor Bugayenko</a></p>
+</div>
+		</aside>	</div>
+	            </div>
+         </div>
+     </div>
+
+    
+    <!-- Footer -->
+    <footer id="colophon" class="site-footer dark" role="contentinfo">
+        <div class="container">
+
+            <div id="site-tools">
+                <div class="row">
+                    <div class="span9"><ul class="breadcrumbs"><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://www.sonatype.org/nexus"><span itemprop="title">TheNEXUS</span></a> </li> <li>Thank You for Downloading. What&#8217;s Next?</li></ul></div>
+                                        <div class="span3"><a href="#" class="footer-toggle pull-right">Site index</a></div>
+                                    </div>
+            </div>
+
+                        <div id="sidebar-footer" class="row-fluid">
+                                <div id="sidebar-footer-1" class="span3">
+                <aside id="text-15" class="widget widget_text"><h3 class="widget-title">Quick Links</h3>			<div class="textwidget"><!-- FOOTER QUICK LINKS -->
+<style type="text/css">
+.MenuPointers {
+	font-size: 10px;
+	color: #F60;
+}
+</style>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><strong><a href="/nexus">Home</a></strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="/nexus/article-archives-2/">Articles Archive</a></strong></td>
+  </tr>
+  <tr>
+    <td><strong><a href="/nexus/members-only/">Members Only</a></strong></td>
+  </tr>  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong>Support</strong></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt;</span> <a href="http://stackoverflow.com/questions/tagged/nexus" target="_blank">Nexus on Stack Overflow</a></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt;</span> <a href="https://support.sonatype.com/categories/20112427-Sonatype-Nexus" target="_blank">Knowledge Base</a></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt;</span> <a href="https://issues.sonatype.org/browse/NEXUS" target="_blank">Nexus Bug Tracker</a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><strong>Mailing Lists and Live Chat</strong></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt;</span> <a href="https://groups.google.com/a/glists.sonatype.com/forum/?hl=en#!forum/nexus-users" target="_blank">Nexus User List Archive</a> (<a href="mailto: nexus-user-subscribe@sonatype.org">Subscribe</a>)</td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt;</span> <a href="https://groups.google.com/a/glists.sonatype.com/forum/?hl=en#!forum/nexus-dev" target="_blank">Nexus Developer List Archive</a> (<a href="mailto: nexus-dev-subscribe@sonatype.org">Subscribe</a>)</td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt;</span> <a href="https://www.hipchat.com/gW26B2y2Z" target="_blank">Live Nexus HipChat Channel</a></td>
+  </tr>
+ 
+</table>
+</div>
+		</aside>                </div>
+                                                <div id="sidebar-footer-2" class="span3">
+                <aside id="text-16" class="widget widget_text"><h3 class="widget-title">Resources</h3>			<div class="textwidget"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><strong>Downloads</strong></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="http://www.sonatype.org/nexus/resources/resources-book-links-and-downloads/" >Books (Download or Read Online)</a></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="/nexus/go" target="_blank">Nexus OSS</a></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="http://www.sonatype.com/nexus/free-trial" target="_blank">Nexus Professional</a></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="http://www.sonatype.com/nexus/why-nexus/which-repo-is-right-for-me" target="_blank">How to Choose</a></td>
+  </tr>  
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><p><strong>Tools</strong></p></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="http://www.sonatype.com/application-health-check" target="_blank">Application Health Check</a></td>
+  </tr> <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="http://www.sonatype.com/nexus/whats-in-your-repo/whats-in-your-repo" target="_blank">Repository Health Check</a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><p><strong>Community Interest</strong></p></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="http://www.sonatype.com/resources/events/" target="_blank">Event Calendar</a></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="http://www.sonatype.com/resources/nexus-now-newsletter" target="_blank">Nexus Now Newsletter Archive</a></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="/nexus/industry-news/">Industry News</a></td>
+  </tr>
+  <tr>
+    <td><span class="MenuPointers">&gt; </span><a href="http://www-dev.sonatype.org/nexus/about-us/">About Us</a></td>
+  </tr>
+</table>
+
+</div>
+		</aside>                </div>
+                                                <div id="sidebar-footer-3" class="span3">
+                <aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Topics</h3>		<ul>
+	<li class="cat-item cat-item-46"><a href="http://www.sonatype.org/nexus/category/article-series/" >Article Series</a> (58)
+<ul class='children'>
+	<li class="cat-item cat-item-458"><a href="http://www.sonatype.org/nexus/category/article-series/2015-devops-leadership-series/" >2015 DevOps Leadership Series</a> (6)
+</li>
+	<li class="cat-item cat-item-477"><a href="http://www.sonatype.org/nexus/category/article-series/2015-software-supply-chain-report/" >2015 Software Supply Chain Report</a> (7)
+</li>
+	<li class="cat-item cat-item-59"><a href="http://www.sonatype.org/nexus/category/article-series/engineering-2/" >Engineering Team: Thoughts</a> (33)
+	<ul class='children'>
+	<li class="cat-item cat-item-47"><a href="http://www.sonatype.org/nexus/category/article-series/engineering-2/a-view-from-the-inside/" >A View from the Inside</a> (10)
+</li>
+	<li class="cat-item cat-item-51"><a href="http://www.sonatype.org/nexus/category/article-series/engineering-2/how-we-do-it/" >How We Do It</a> (11)
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://www.sonatype.org/nexus/category/article-series/hp-fod-clm/" >HP. FoD and CLM</a> (2)
+	<ul class='children'>
+	<li class="cat-item cat-item-66"><a href="http://www.sonatype.org/nexus/category/article-series/hp-fod-clm/fod-and-nexus/" >FoD and Nexus</a> (1)
+</li>
+	<li class="cat-item cat-item-63"><a href="http://www.sonatype.org/nexus/category/article-series/hp-fod-clm/mapping-appsec-incentives/" >Mapping AppSec Incentives</a> (1)
+</li>
+	</ul>
+</li>
+	<li class="cat-item cat-item-79"><a href="http://www.sonatype.org/nexus/category/article-series/nexus-and-nuget/" >Nexus and NuGet</a> (10)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.sonatype.org/nexus/category/clm/" >CLM</a> (19)
+</li>
+	<li class="cat-item cat-item-36"><a href="http://www.sonatype.org/nexus/category/devops/" >DevOps</a> (43)
+</li>
+	<li class="cat-item cat-item-168"><a href="http://www.sonatype.org/nexus/category/events-and-webinars/" >Events and Webinars</a> (23)
+</li>
+	<li class="cat-item cat-item-374"><a href="http://www.sonatype.org/nexus/category/plugins/" >Extensions and Plugins</a> (17)
+</li>
+	<li class="cat-item cat-item-45"><a href="http://www.sonatype.org/nexus/category/guest-authors/" >Guest Authors</a> (31)
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.sonatype.org/nexus/category/spotlight/" >In the Spotlight</a> (88)
+</li>
+	<li class="cat-item cat-item-464"><a href="http://www.sonatype.org/nexus/category/nexus-3/" >Nexus 3</a> (9)
+</li>
+	<li class="cat-item cat-item-585"><a href="http://www.sonatype.org/nexus/category/nexus-lifecycle/" >Nexus Lifecycle</a> (3)
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.sonatype.org/nexus/category/nexus-oss/" >Nexus OSS</a> (43)
+<ul class='children'>
+	<li class="cat-item cat-item-310"><a href="http://www.sonatype.org/nexus/category/nexus-oss/minecraft/" >Minecraft</a> (3)
+</li>
+	<li class="cat-item cat-item-380"><a href="http://www.sonatype.org/nexus/category/nexus-oss/tips-from-the-trenches/" >Tips from the Trenches</a> (9)
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.sonatype.org/nexus/category/nexus-proclm/" >Nexus Pro/CLM</a> (23)
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.sonatype.org/nexus/category/oped/" >OpEd</a> (23)
+</li>
+	<li class="cat-item cat-item-404"><a href="http://www.sonatype.org/nexus/category/owasp/" >OWASP</a> (15)
+</li>
+	<li class="cat-item cat-item-262"><a href="http://www.sonatype.org/nexus/category/resource/" >Resource</a> (13)
+</li>
+	<li class="cat-item cat-item-415"><a href="http://www.sonatype.org/nexus/category/sonatype-says/" >Sonatype Says</a> (37)
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.sonatype.org/nexus/category/qa/" >The Q&amp;A Corner</a> (15)
+</li>
+	<li class="cat-item cat-item-142"><a href="http://www.sonatype.org/nexus/category/the-week-in-review/" >The Week in Review</a> (6)
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.sonatype.org/nexus/category/video/" >Video</a> (28)
+</li>
+		</ul>
+</aside>                </div>
+                                                <div id="sidebar-footer-4" class="span3">
+                <aside id="text-17" class="widget widget_text">			<div class="textwidget"><p>&nbsp;</p>
+<a href="/nexus/"><img src="/nexus/content/uploads/2014/09/Logo-Footer.jpg" width="220" height="81" border="0" /></a></div>
+		</aside>                </div>
+                            </div>
+
+            
+            <div class="footer-shadown"></div>
+        </div>
+
+        <!-- div id="site-info" class="container">
+            <div class="clearfix">
+                <div class="copyright">
+                    <p>Copyright &copy; 2012 by <a href="http://demo.designwall.com/dw-focus/" title="DW Focus" rel="nofollow">DW Focus</a>. Proudly powered by <a href="http://wordpress.org/" title="Semantic Personal Publishing Platform">WordPress</a></p>
+                    <p><a title="Responsive WordPress Themes for Free and Premium" href="http://designwall.com/" rel="nofollow">WordPress Theme by DesignWall</a></p>
+                </div>
+                <div class="logo">
+                    <a class="small-logo" href="http://www.sonatype.org/nexus/" title="TheNEXUS" rel="home">TheNEXUS</a>
+                </div>
+            </div>
+        </div -->
+    </footer><!-- #colophon .site-footer -->
+<a class="scroll-top" href="#masthead" title="Scroll to top">Top</a>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/content/plugins/akismet/_inc/form.js?ver=3.1.3'></script>
+<link rel='stylesheet' id='Css-css'  href='http://www.sonatype.org/nexus/content/plugins/spider-event-calendar/elements/calendar-jos.css?ver=1.4.16' type='text/css' media='' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.sonatype.org\/nexus\/wp\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/wp/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://www.sonatype.org/nexus/wp/wp-includes/js/comment-reply.min.js?ver=4.2.4'></script>
+</body>
+</html>
